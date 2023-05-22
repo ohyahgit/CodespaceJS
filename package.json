@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "async": "^3.2.4",
+    "axios": "^1.4.0",
+    "chalk": "^5.2.0",
+    "yargs": "^17.7.2"
+  },
+  "name": "codespacejs",
+  "type": "module",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
